@@ -30,4 +30,4 @@ This repository is where we’re **building in public** – sharing ideas, gathe
 ## 🙌 Get Involved
 
 We’d love your input!  
-Check out the [Issues](../../issues), propose a [feature or improvement](../../issues/new), or follow along to see how RideMentor evolves.
+Check out the [Issues](../../issues), propose a [feature or improvement](../../issues/new), take a look at the [roadmap](https://github.com/orgs/RideMentor/projects/1), or follow along to see how RideMentor evolves.
